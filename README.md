@@ -12,3 +12,15 @@ x = 5
 
 # Loops
 DRY coding principle = Don't Repeat Yourself
+
+
+...
+...
+...
+...
+# Nested Loops
+useful for running over multi-dimensional structures, like MATRIX
+
+# enumerate()
+Used to access index and value of list/iterable elements. How? -> use two variables in a for loop, e.g. for index, variable in list: blah blah blah.
+
